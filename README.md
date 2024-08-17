@@ -1,2 +1,2 @@
 # ETL-TELECOM_PROJECT
-I USED (SSIS) TO EXTRACT DATA FROM CSV FILES AND DID SOME OPERATIONS AND TRANFORMATIONS THEN UPLOADED IT TO A (DATA WAREHOUSE)
+Used SSIS to extract data from CSV files, perform operations and transformations, and load it into a data warehouse.
